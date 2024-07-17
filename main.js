@@ -16,7 +16,7 @@ console.log(color["Green"]); // 2
     color[color["Orange"] = 7] = "Orange";
 })(color || (color = {}));
 console.log(color.Orange); // 7
-for (let i = 10; i > 0; i--) {
+for (let i = 10; i > 0; i--) { // 10 say 1 tak countdown hoga
     console.log(i);
 }
 ////////////////////////////////////////////////// example
