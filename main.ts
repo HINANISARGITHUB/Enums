@@ -1,3 +1,4 @@
+
 //Enums
 enum color{
     Red,
@@ -46,6 +47,7 @@ function trafficLight (curr: Color) {
 trafficLight(Color.Red);
 
 ///////////////////////////////////// Tupple /////////////////////
+
 
 
 
